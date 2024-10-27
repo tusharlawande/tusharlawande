@@ -2,8 +2,8 @@
 
 **Tushar Lawande**  
 📞 +91-986-073-3479  
-✉️ tusharlawande1010@gmail.com  
-🌐 [LinkedIn](https://linkedin.com) | [GitHub](https://github.com) | [LeetCode](https://leetcode.com) | [Portfolio](https://www.Portfolio)  
+✉️ [tusharlawande1010@gmail.com](mailto:tusharlawande1010@gmail.com)  
+🌐 [LinkedIn](https://linkedin.com/in/tusharlawande) | [GitHub](https://github.com/tusharlawande) | [LeetCode](https://leetcode.com/tusharlawande) | [Portfolio](https://portfolio.com/tusharlawande)  
 📍 425306, Muktainagar, Maharashtra, India  
 
 🚀 **Data Scientist** specializing in **Python** and **R**, with a focus on translating **Complex Data** into actionable insights through **Statistical Analysis** and **Machine Learning**. Skilled in **Data-Driven Decision Making**, helping organizations leverage data for strategic impact.
@@ -11,9 +11,9 @@
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tusharlawande)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/tusharlawande)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/tusharlawande)  
 
 ---
 
@@ -36,21 +36,21 @@
 ---
 
 ## 📂 Projects
-- **Amazon Stock Price Forecasting**  
+- **[Amazon Stock Price Forecasting](https://github.com/tusharlawande/amazon-stock-forecast)**  
   Created a forecasting model using **Random Forest Regressor**, achieving **0.94 R²** score.  
-  **Skills**: Machine Learning, Random Forest, Feature Engineering, Python, Pandas, NumPy, Scikit-Learn **[GitHub](#)**
+  **Skills**: Machine Learning, Random Forest, Feature Engineering, Python, Pandas, NumPy, Scikit-Learn  
 
-- **Bitcoin Price Analysis**  
+- **[Bitcoin Price Analysis](https://github.com/tusharlawande/bitcoin-price-analysis)**  
   Analyzed historical Bitcoin data and visualized trends using advanced **Data Visualization**.  
-  **Skills**: Data Analysis, Python, Quandl API, Plotly **[GitHub](#)**
+  **Skills**: Data Analysis, Python, Quandl API, Plotly  
 
-- **Amazon Prime Video Scraping**  
+- **[Amazon Prime Video Scraping](https://github.com/tusharlawande/amazon-prime-scraping)**  
   Developed a tool to scrape and analyze Amazon Prime data for trend insights.  
-  **Skills**: Web Scraping, Selenium, BeautifulSoup, Python **[GitHub](#)**
+  **Skills**: Web Scraping, Selenium, BeautifulSoup, Python  
 
-- **Twitter Sentiment Analysis**  
+- **[Twitter Sentiment Analysis](https://github.com/tusharlawande/twitter-sentiment-analysis)**  
   Conducted sentiment analysis on Twitter data with **0.8 accuracy** using NLP techniques.  
-  **Skills**: Sentiment Analysis, SpaCy, Tweepy, NLTK, Matplotlib **[GitHub](#)**
+  **Skills**: Sentiment Analysis, SpaCy, Tweepy, NLTK, Matplotlib  
 
 ---
 
@@ -64,8 +64,8 @@
 ---
 
 ## 🎖️ Certifications
-- **Python** - Coursera (Sep 2023) **[Certificate](#)**
-- **IBM Data Science** - Coursera (Aug 2024) **[Certificate](#)**
+- **[Python](https://coursera.org/share/certificate_link)** - Coursera (Sep 2023)
+- **[IBM Data Science](https://coursera.org/share/certificate_link)** - Coursera (Aug 2024)
 
 ---
 
