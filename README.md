@@ -3,70 +3,108 @@
 **Tushar Lawande**  
 📞 +91-986-073-3479  
 ✉️ [tusharlawande1010@gmail.com](mailto:tusharlawande1010@gmail.com)  
-🌐 [LinkedIn](https://linkedin.com/in/tusharlawande) | [GitHub](https://github.com/tusharlawande) | [LeetCode](https://leetcode.com/tusharlawande) | [Portfolio](https://portfolio.com/tusharlawande)  
-📍 425306, Muktainagar, Maharashtra, India  
+🌐 [LinkedIn](https://www.linkedin.com/in/tusharlawande) | [GitHub](https://github.com/tusharlawande) | [LeetCode](https://leetcode.com/u/tusharlawande) | [Portfolio](https://tusharlawande.github.io/)  
+📍 Muktainagar, Maharashtra, India  
 
-🚀 **Data Scientist** specializing in **Python** and **R**, with a focus on translating **Complex Data** into actionable insights through **Statistical Analysis** and **Machine Learning**. Skilled in **Data-Driven Decision Making**, helping organizations leverage data for strategic impact.
+🚀 **Machine Learning Engineer & Data Scientist** with **1+ year of experience** building **high-performance, scalable AI systems** and **real-time data applications**. Specialized in **Python, Machine Learning, NLP, and Large-Scale Data Processing**, delivering **production-ready solutions** for real-world problems.
 
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tusharlawande)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharlawande)  
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/tusharlawande)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/tusharlawande)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/tusharlawande)  
 
 ---
 
 ## 💻 Technical Skills
-- **Languages**: Python, R, SQL, C++, Java
-- **Data Science Tools**: NumPy, Pandas, Matplotlib, Seaborn, yfinance, MS Excel, Tableau, Power BI, Git
-- **ML/AI Frameworks**: TensorFlow, Hadoop, PyTorch, Plotly, Scikit-learn, NLP, Deep Learning, GCP, LLMs
-- **Soft Skills**: Leadership, Communication, Problem-Solving, Teamwork, Adaptability
+
+### 🧠 Languages
+- Python  
+- R  
+- SQL  
+- C++  
+- Java  
+
+### ⚙️ Tools & Technologies
+- NumPy, Pandas, Matplotlib, Seaborn  
+- Statistics, yFinance  
+- Excel, Tableau, Power BI  
+- Git, Jupyter Notebook  
+- Chrome WebDriver  
+- PyQt5, VTK, PyVista  
+
+### 🤖 ML/AI & Advanced Tech
+- TensorFlow, PyTorch, Scikit-learn  
+- NLP, Deep Learning, Computer Vision  
+- LLMs, Generative AI  
+- Hadoop, GCP  
+- Neural Networks, GPU Computing  
+
+### 🧩 Core Strengths
+Leadership • Communication • Critical Thinking • Problem-Solving • Teamwork • Adaptability  
 
 ---
 
 ## 🧑‍💼 Professional Experience
-### **Machine Learning Intern** - Cognifyz Technologies | May 2024 – June 2024
-- Performed **Restaurant Data Analysis** using Python and visualization tools, contributing to operational strategies and efficiency gains.
-- Developed and deployed **Machine Learning Models** to support complex business challenges with data-driven insights.
 
-### **Data Science Intern** - CodSoft | May 2024 – June 2024
-- Conducted data analysis and visualization on multiple projects, achieving **95%+ accuracy** in **Cat and Dog Image Classification**, **85%** in **Titanic Survival Prediction**, and **96%** in **SMS Spam Detection**, optimizing model performance.
+### **Python Developer**  
+📍 Micro Integrated Semiconductor Systems Pvt Ltd | Dec 2025 – Apr 2026  
+- Engineered a **3D civil engineering design & measurement desktop application** using PyQt5, VTK, Open3D, and MySQL  
+- Delivered **scalable, production-ready solution** for infrastructure modeling and precision analysis  
+
+### **Python Developer**  
+📍 Mounarch Tech Solutions and Systems Pvt Ltd | Mar 2025 – Dec 2025  
+- Built **real-time 3D point cloud visualization platform** with **sub-mm precision**  
+- Designed **high-speed pipelines (multi-GB, 60+ FPS)**  
+
+### **Machine Learning Intern**  
+📍 Cognifyz Technologies | May 2024 – June 2024  
+- Developed ML models delivering **actionable business insights**  
+
+### **Data Science Intern**  
+📍 CodSoft | May 2024 – June 2024  
+- Achieved:
+  - 95% → Cat vs Dog Classification  
+  - 85% → Titanic Prediction  
+  - 96% → Spam Detection  
 
 ---
 
 ## 📂 Projects
-- **[Amazon Stock Price Forecasting](https://github.com/tusharlawande/amazon-stock-forecast)**  
-  Created a forecasting model using **Random Forest Regressor**, achieving **0.94 R²** score.  
-  **Skills**: Machine Learning, Random Forest, Feature Engineering, Python, Pandas, NumPy, Scikit-Learn  
 
-- **[Bitcoin Price Analysis](https://github.com/tusharlawande/bitcoin-price-analysis)**  
-  Analyzed historical Bitcoin data and visualized trends using advanced **Data Visualization**.  
-  **Skills**: Data Analysis, Python, Quandl API, Plotly  
+### 📈 [Amazon Stock Price Forecasting](https://github.com/tusharlawande/AdvancedPredicting-Stock-Prices-Final-AMZN-RF-Forecasting)
+- Random Forest model with **0.94 R² score**  
+- Advanced feature engineering  
+- Tech: Python, Pandas, NumPy, Scikit-learn  
 
-- **[Amazon Prime Video Scraping](https://github.com/tusharlawande/amazon-prime-scraping)**  
-  Developed a tool to scrape and analyze Amazon Prime data for trend insights.  
-  **Skills**: Web Scraping, Selenium, BeautifulSoup, Python  
+---
 
-- **[Twitter Sentiment Analysis](https://github.com/tusharlawande/twitter-sentiment-analysis)**  
-  Conducted sentiment analysis on Twitter data with **0.8 accuracy** using NLP techniques.  
-  **Skills**: Sentiment Analysis, SpaCy, Tweepy, NLTK, Matplotlib  
+### 🐦 [Twitter Sentiment Analysis](https://github.com/tusharlawande/Trump-Twitter-Analysis-Final)
+- NLP-based sentiment analysis (**0.8 accuracy**)  
+- Tech: SpaCy, Tweepy, NLTK, Matplotlib  
 
 ---
 
 ## 🎓 Education
-- **Chandigarh University, Punjab**  
-  Master of Computer Applications (AI/ML), GPA: 6.43 (Expected Graduation: 2025)
 
-- **Smt. G.G. Khadse College, Muktainagar**  
-  Bachelor’s in Computer Science, Grade: 9.09 (Graduated: 2023)
+🎓 **Chandigarh University, Punjab**  
+- MCA (AI/ML) — CGPA: 6.49  
+- Graduated: 2025  
+
+🎓 **Smt. G.G. Khadse College, Muktainagar**  
+- B.Sc Computer Science — 9.09  
+- Graduated: 2023  
 
 ---
 
 ## 🎖️ Certifications
-- **[Python](https://coursera.org/share/certificate_link)** - Coursera (Sep 2023)
-- **[IBM Data Science](https://coursera.org/share/certificate_link)** - Coursera (Aug 2024)
+
+- 📜 [Python Certificate](https://www.coursera.org/account/accomplishments/specialization/N8D625WPS8XM)  
+- 📜 [IBM Data Science Certificate](https://www.coursera.org/account/accomplishments/professional-cert/9NM8NR11PNHO)  
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔥 Highlight
+
+💡 Built **real-time AI systems processing multi-GB data at 60+ FPS**, delivering **production-grade scalable solutions** aligned with **top-tier engineering standards (15–25 LPA+)**.
