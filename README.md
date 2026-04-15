@@ -3,7 +3,7 @@
 **Tushar Lawande**  
 📞 +91-986-073-3479  
 ✉️ [tusharlawande1010@gmail.com](mailto:tusharlawande1010@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/tusharlawande) | [GitHub](https://github.com/tusharlawande) | [LeetCode](https://leetcode.com/u/tusharlawande) | [Portfolio](https://tusharlawande.github.io/)  
+🌐 [LinkedIn](https://www.linkedin.com/in/tusharlawande) | [GitHub](https://github.com/tusharlawande) | [LeetCode](https://leetcode.com/u/tusharlawande) | [Portfolio](https://tusharlawande.github.io/-/)  
 📍 Muktainagar, Maharashtra, India  
 
 🚀 **Machine Learning Engineer & Data Scientist** with **1+ year of experience** building **high-performance, scalable AI systems** and **real-time data applications**. Specialized in **Python, Machine Learning, NLP, and Large-Scale Data Processing**, delivering **production-ready solutions** for real-world problems.
